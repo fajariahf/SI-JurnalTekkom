@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'ec2-3-95-87-221.compute-1.amazonaws.com',
-	'username' => 'myzsyvdwgwquol',
-	'password' => '3cd6eaf6a871deb8071557adb0cea3dc173e162978369285cd7c2aa02c235bca',
-	'database' => 'de0k0covfaq2jg',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'db_jurnaltekkom',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
